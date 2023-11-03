@@ -19,9 +19,10 @@ The easiest way to play RPS is by [cloning this repository](https://docs.github.
 ### Running the program
 From the RPS directory, simply type ```python main.py``` (Windows/Linux) or ```python3 main.py``` (Mac) and follow the onscreen instructions.
 
-If you want to explore other options via the command line, the help message will guide you:
+If you want to explore other options via the command line, the beautiful help message will guide you:
 ```python main.py --help``` :
-![image](https://github.com/jwjacobson/rps/assets/116485484/aa204f15-6531-415f-9f66-5f1808ee59ec)
+![image](https://github.com/jwjacobson/rps/assets/116485484/f4fab86c-9089-4c5c-993e-984958da78b4)
+
 
 
 ### License
