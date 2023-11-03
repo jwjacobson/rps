@@ -4,6 +4,8 @@
 This past week I've been reading through the documentation for the **Typer** and **Rich** libraries. Typer is used for passing CLI arguments and options to programs, and Rich is for adding beautiful formatting to CLI programs. To practice and consolidate what I learned, this afternoon I coded up a little rock paper scissors game.
 
 ### About the game
+![image](https://github.com/jwjacobson/rps/assets/116485484/5d1b47f7-1b3a-4445-b845-3a8fe11ea42a)
+
 The program plays a single game of rock paper scissors against the computer. You can determine both your own choice and the computer's by means of CLI arguments when you run the program, or you can make your choice from within the program and the computer will select randomly. After determining and announcing the winner, the program ends.
 
 ### Prerequisites
