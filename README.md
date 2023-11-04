@@ -23,7 +23,7 @@ From the RPS directory, simply type ```python main.py``` (Windows/Linux) or ```p
 
 If you want to explore other options via the command line, the beautiful help message will guide you:
 ```python main.py --help``` :
-![image](https://github.com/jwjacobson/rps/assets/116485484/1c0c527c-b1a7-4622-9397-06841d1e89a9)
+![image](https://github.com/jwjacobson/rps/assets/116485484/81a49a2e-7a77-41ea-82c5-1ee2576c4aad)
 
 
 
