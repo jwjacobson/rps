@@ -4,7 +4,7 @@
 This past week I've been reading through the documentation for the **Typer** and **Rich** libraries. Typer is used for passing CLI arguments and options to programs, and Rich is for adding beautiful formatting to CLI programs. To practice and consolidate what I learned, this afternoon I coded up a little rock paper scissors game.
 
 ### About the game
-![image](https://github.com/jwjacobson/rps/assets/116485484/5d1b47f7-1b3a-4445-b845-3a8fe11ea42a)
+![image](https://github.com/jwjacobson/rps/assets/116485484/b326b129-4e5f-4983-bda0-a9d994c1a94f)
 
 The program plays a single game of rock paper scissors against the computer. You can determine both your own choice and the computer's by means of CLI arguments when you run the program, or you can make your choice from within the program and the computer will select randomly. After determining and announcing the winner, the program ends.
 
@@ -23,7 +23,7 @@ From the RPS directory, simply type ```python main.py``` (Windows/Linux) or ```p
 
 If you want to explore other options via the command line, the beautiful help message will guide you:
 ```python main.py --help``` :
-![image](https://github.com/jwjacobson/rps/assets/116485484/f4fab86c-9089-4c5c-993e-984958da78b4)
+![image](https://github.com/jwjacobson/rps/assets/116485484/1c0c527c-b1a7-4622-9397-06841d1e89a9)
 
 
 
